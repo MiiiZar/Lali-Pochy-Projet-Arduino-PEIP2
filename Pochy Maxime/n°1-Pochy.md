@@ -20,4 +20,4 @@ Nous avons envisagé un châssis léger et délicat en plastique 3D, renforcé u
 
 Bien que cette séance n'ait pas généré de progrès tangibles, elle a permis de clarifier notre vision du projet et d'explorer des méthodes de mise en œuvre. Les ajustements apportés à nos ambitions et la décision de privilégier la modélisation 3D avec renforcement en bois démontrent notre capacité à faire face aux imprévus et à prendre des décisions éclairées pour la réussite de notre projet.
 
-![Illutstration](n°1-Pochy)
+![Illutstration](./n1-Pochy.jpg)
